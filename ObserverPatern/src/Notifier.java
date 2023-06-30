@@ -1,5 +1,5 @@
 
-public interface Notifier {//набдюдаемый объект
+public interface Notifier {
 
 	void addObserver(Observer observer);
 	void deliteObserver(Observer observer);
